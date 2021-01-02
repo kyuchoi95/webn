@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "myWEB",
+      "script": "main.js",
+      "watch": ["../", "main.js"],
+      "log_date_format": "YYYY-MM-DD HH:mm Z"
+    }
+  ]
+}
